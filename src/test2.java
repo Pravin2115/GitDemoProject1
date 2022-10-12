@@ -1,5 +1,6 @@
 
-public class test1 {
+public class test2 {
+
 public static void main(String[] args) {
 	String hungry ="yes";
 	if(hungry=="yes") {
@@ -10,5 +11,5 @@ public static void main(String[] args) {
 	}
 	
 }
+
 }
- 
